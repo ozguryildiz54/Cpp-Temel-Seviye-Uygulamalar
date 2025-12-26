@@ -1,2 +1,2 @@
-# Cpp-Temel-Seviye-Uygulamalar
-C++ eğitimi için temel seviye uygulamalar içerir.
+C++ Basic Level Applications
+This repository contains basic-level applications designed for C++ education.
